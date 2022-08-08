@@ -1,6 +1,6 @@
-The `<ul>` element creates an unordered list. Each `<li>` list item inside an ordered list will have a bullet point.
+The `<ul>` element creates an unordered list. Each `<li>` list item inside an ordered list has a bullet point.
 
-![A three item list with circular bullet points and the text Lorem Ipsum Dolor.](images/unordered-list.png)
+![A three-item list with circular bullet points. Next to the first bullet point is the text 'Lorem', next to the second bullet point is the text 'Ipsum', and next to the third bullet point is the text 'Dolor'.](images/unordered-list.png)
 
 --- code ---
 ---
