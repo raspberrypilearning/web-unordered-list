@@ -1,6 +1,6 @@
-The `<ul>` element creates an unordered list. Each `<li>` list item inside an ordered list has a bullet point.
+Het `<ul>` element maakt een ongeordende lijst aan. Elk `<li>` lijstitem binnen een ongeordende lijst heeft een opsommingsteken.
 
-![A three-item list with circular bullet points. Next to the first bullet point is the text 'Lorem', next to the second bullet point is the text 'Ipsum', and next to the third bullet point is the text 'Dolor'.](images/unordered-list.png)
+![Een lijst met drie items en ronde opsommingstekens. Naast het eerste opsommingsteken staat de tekst 'Lorem', naast het tweede opsommingsteken staat de tekst 'Ipsum', en naast het derde opsommingsteken staat de tekst 'Dolor'.](images/unordered-list.png)
 
 ## --- code ---
 
