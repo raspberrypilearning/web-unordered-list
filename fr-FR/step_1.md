@@ -1,6 +1,6 @@
-The `<ul>` element creates an unordered list. Each `<li>` list item inside an ordered list has a bullet point.
+L'élément '<ul>' crée une liste non ordonnée. Chaque élément de liste '<li>' à l'intérieur d'une liste non ordonnée est précédé d'une puce.
 
-![A three-item list with circular bullet points. Next to the first bullet point is the text 'Lorem', next to the second bullet point is the text 'Ipsum', and next to the third bullet point is the text 'Dolor'.](images/unordered-list.png)
+![Liste de trois éléments avec des puces circulaires. À côté de la première puce se trouve le texte 'Lorem', à côté de la deuxième puce se trouve le texte 'Ipsum', et à côté de la troisième puce se trouve le texte 'Dolor'.](images/unordered-list.png)
 
 ## --- code ---
 
